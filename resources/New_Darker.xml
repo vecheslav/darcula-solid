@@ -10,20 +10,82 @@
     <option name="CARET_COLOR" value="f7f7f7" />
     <option name="CARET_ROW_COLOR" value="323335" />
     <option name="CONSOLE_BACKGROUND_KEY" value="1c1c1c" />
+    <option name="DOCUMENTATION_COLOR" value="252526" />
     <option name="GUTTER_BACKGROUND" value="1c1c1c" />
     <option name="INDENT_GUIDE" value="2c2c2d" />
+    <option name="RECENT_LOCATIONS_SELECTION" value="252526" />
     <option name="RIGHT_MARGIN_COLOR" value="2c2c2d" />
     <option name="SELECTED_INDENT_GUIDE" value="313132" />
     <option name="SELECTED_TEARLINE_COLOR" value="5e6063" />
     <option name="TEARLINE_COLOR" value="3d3e40" />
     <option name="VISUAL_INDENT_GUIDE" value="2c2c2d" />
-    <option name="DOCUMENTATION_COLOR" value="252526" />
+    <option name="INFORMATION_HINT" value="252526" />
   </colors>
   <attributes>
     <option name="BAD_CHARACTER">
       <value>
         <option name="EFFECT_COLOR" value="ff5b56" />
         <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="CONSOLE_BLUE_BRIGHT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="5790fe" />
+      </value>
+    </option>
+    <option name="CONSOLE_BLUE_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="5786fe" />
+      </value>
+    </option>
+    <option name="CONSOLE_CYAN_BRIGHT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="75e7ff" />
+      </value>
+    </option>
+    <option name="CONSOLE_CYAN_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="5ed5ed" />
+      </value>
+    </option>
+    <option name="CONSOLE_GREEN_BRIGHT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="5af78d" />
+      </value>
+    </option>
+    <option name="CONSOLE_GREEN_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="5af78d" />
+      </value>
+    </option>
+    <option name="CONSOLE_MAGENTA_BRIGHT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ff69c0" />
+      </value>
+    </option>
+    <option name="CONSOLE_MAGENTA_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ff69c0" />
+      </value>
+    </option>
+    <option name="CONSOLE_RED_BRIGHT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ff5b56" />
+      </value>
+    </option>
+    <option name="CONSOLE_RED_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ff5b56" />
+      </value>
+    </option>
+    <option name="CONSOLE_YELLOW_BRIGHT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="f3f99c" />
+      </value>
+    </option>
+    <option name="CONSOLE_YELLOW_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="f3f99c" />
       </value>
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">

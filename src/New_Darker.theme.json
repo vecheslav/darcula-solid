@@ -74,8 +74,8 @@
     },
     "Popup": {
       "Header": {
-        "activeBackground": "#3d3e40",
-        "inactiveBackground": "#3d3e40"
+        "activeBackground": "#2a2a2b",
+        "inactiveBackground": "#2a2a2b"
       }
     },
 
@@ -103,10 +103,10 @@
 
     "VersionControl": {
       "Log.Commit": {
-        "currentBranchBackground": "#2E3D5A",
-        "unmatchedForeground": "#727380"
+        "currentBranchBackground": "#252c40",
+        "unmatchedForeground": "#9192a3"
       },
-      "FileHistory.Commit.selectedBranchBackground": "#2E3D5A"
+      "FileHistory.Commit.selectedBranchBackground": "#252c40"
     }
   },
 
