@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>com.vecheslav.darculaSolidTheme</id>
   <name>Darcula Solid Theme</name>
-  <version>1.0</version>
+  <version>1.0.1</version>
   <vendor email="vecheslavdruzhbin@gmail.com">Vecheslav Druzhbin</vendor>
 
   <description><![CDATA[
