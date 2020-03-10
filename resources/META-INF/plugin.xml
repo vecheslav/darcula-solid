@@ -1,11 +1,26 @@
 <idea-plugin>
-  <id>com.vecheslav.newDarkerTheme</id>
-  <name>New Darker Theme</name>
+  <id>com.vecheslav.darculaSolidTheme</id>
+  <name>Darcula Solid Theme</name>
   <version>1.0</version>
   <vendor email="vecheslavdruzhbin@gmail.com">Vecheslav Druzhbin</vendor>
 
   <description><![CDATA[
-      A dark theme based on Darcula, but with MORE contrasting tones.
+      A dark theme based on Darcula, but with MORE contrasting & solid tones.
+      <br/><br/>
+
+      To install:
+      <ul>
+      <li>Go to <i>Settings (Preferences) | Plugins</i>, find the theme plugin and install it</li>
+      <li>Restart IDE</li>
+      <li>Go to <i>Settings (Preferences) | Appearance & Behavior | Appearance</i> and see the <i>Theme</i> dropdown</li>
+      </ul>
+      <br/>
+      <a href="https://github.com/vecheslav/darcula-solid/issues">Report an issue</a>  |  <a href="https://github.com/vecheslav/darcula-solid">On GitHub</a>
+      <br/><br/><br/>
+
+      <img src="https://raw.githubusercontent.com/vecheslav/darcula-solid/master/screenshots/darculasolid-main-window.png" border="0" width="700" alt="Main window screenshot">
+      <br/>
+      <img src="https://raw.githubusercontent.com/vecheslav/darcula-solid/master/screenshots/darculasolid-settings.png" border="0" width="700" alt="Settings screenshot">
     ]]></description>
 
   <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
@@ -15,7 +30,7 @@
 
   <extensions defaultExtensionNs="com.intellij">
     <!-- Add your extensions here -->
-    <themeProvider id="9cfba3b0-a3d0-4fe9-aee5-f23b9882c2ac" path="/New_Darker.theme.json"/>
+    <themeProvider id="9cfba3b0-a3d0-4fe9-aee5-f23b9882c2ac" path="/Darcula_Solid.theme.json"/>
   </extensions>
 
   <actions>

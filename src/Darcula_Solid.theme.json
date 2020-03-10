@@ -1,38 +1,33 @@
 {
-  "name": "New Darker",
+  "name": "Darcula Solid",
   "dark": true,
   "author": "Vecheslav Druzhbin",
-  "editorScheme": "/New_Darker.xml",
+  "editorScheme": "/Darcula_Solid.xml",
   "ui": {
     "*": {
       "background": "#252526",
       "disabledBackground": "#252526",
       "inactiveBackground": "#323335",
-
       "selectionBackground": "#37383a",
       "selectionInactiveBackground": "#37383a",
-
       "lightSelectionBackground": "#353638",
       "lightSelectionInactiveBackground": "#252526",
-
       "borderColor": "#3d3e40",
       "disabledBorderColor": "#3d3e40",
-
       "separatorForeground": "#3d3e40",
       "separatorColor": "#3d3e40",
       "lineSeparatorColor": "#3d3e40",
       "underlineColor": "#2f65ca",
-      "underlineHeight": 3
+      "underlineHeight": 2
     },
     "Borders": {
       "color": "#3d3e40",
       "ContrastBorderColor": "#3d3e40"
     },
-
     "Component": {
       "arc": 8,
       "borderColor": "#3d3e40",
-      "focusedBorderColor": "#2f65ca"
+      "focusedBorderColor": "#2856AC"
     },
     "TextField.background": "#1f1f1f",
     "FormattedTextField.background": "#1f1f1f",
@@ -47,7 +42,7 @@
     "Button": {
       "foreground": "#ececec",
       "arc": 8,
-      "focusedBorderColor": "#2f65ca",
+      "focusedBorderColor": "#2856AC",
       "shadowColor": "#00000000",
       "startBackground": "#3d3e40",
       "endBackground": "#3d3e40",
@@ -55,35 +50,32 @@
       "endBorderColor": "#3d3e40",
       "default": {
         "foreground": "#ececec",
-        "startBackground": "#2f65ca",
-        "endBackground": "#2f65ca",
+        "startBackground": "#2856ac",
+        "endBackground": "#2856AC",
+        "focusedBorderColor": "#2856AC",
         "startBorderColor": "#00000000",
         "endBorderColor": "#00000000"
       }
     },
-
     "Table.stripeColor": "#2a2a2b",
-
     "Tree": {
       "rowHeight": 20
     },
-
     "ToolWindow.Header.inactiveBackground": "#252526",
     "ToolWindow.HeaderTab": {
       "underlinedTabBackground": "#313234"
     },
     "Popup": {
       "Header": {
-        "activeBackground": "#2a2a2b",
-        "inactiveBackground": "#2a2a2b"
+        "activeBackground": "#313234",
+        "inactiveBackground": "#313234"
       }
     },
-
     "DefaultTabs": {
       "hoverBackground": "#00000000",
       "underlineColor": "#2f65ca",
       "underlinedTabBackground": "#313234",
-      "underlineHeight": 3
+      "underlineHeight": 2
     },
     "SearchEverywhere": {
       "Tab": {
@@ -98,9 +90,8 @@
       "underlinedTabForeground": "#CFD2D5",
       "underlineColor": "#2f65ca",
       "inactiveUnderlineColor": "#2f65ca",
-      "underlineHeight": 3
+      "underlineHeight": 2
     },
-
     "VersionControl": {
       "Log.Commit": {
         "currentBranchBackground": "#252c40",
@@ -109,7 +100,6 @@
       "FileHistory.Commit.selectedBranchBackground": "#252c40"
     }
   },
-
   "icons": {
     "ColorPalette": {
       "Checkbox.Background.Default.Dark": "#1f1f1f",

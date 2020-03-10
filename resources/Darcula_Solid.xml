@@ -1,31 +1,44 @@
-<scheme name="New Darker" version="142" parent_scheme="Darcula">
+<scheme name="Darcula Solid" version="142" parent_scheme="Darcula">
   <metaInfo>
     <property name="created">2019-07-05T11:35:25</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.1.3.0.0</property>
     <property name="modified">2019-07-05T11:35:35</property>
-    <property name="originalScheme">New Darker</property>
+    <property name="originalScheme">Darcula Solid</property>
   </metaInfo>
   <colors>
+    <option name="ADDED_LINES_COLOR" value="444d3b" />
     <option name="CARET_COLOR" value="f7f7f7" />
     <option name="CARET_ROW_COLOR" value="323335" />
     <option name="CONSOLE_BACKGROUND_KEY" value="1c1c1c" />
     <option name="DOCUMENTATION_COLOR" value="252526" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="a69770" />
     <option name="GUTTER_BACKGROUND" value="1c1c1c" />
+    <option name="IGNORED_ADDED_LINES_BORDER_COLOR" value="444d3b" />
+    <option name="IGNORED_MODIFIED_LINES_BORDER_COLOR" value="363d47" />
     <option name="INDENT_GUIDE" value="2c2c2d" />
+    <option name="INFORMATION_HINT" value="252526" />
+    <option name="MODIFIED_LINES_COLOR" value="363d47" />
     <option name="RECENT_LOCATIONS_SELECTION" value="252526" />
     <option name="RIGHT_MARGIN_COLOR" value="2c2c2d" />
     <option name="SELECTED_INDENT_GUIDE" value="313132" />
     <option name="SELECTED_TEARLINE_COLOR" value="5e6063" />
+    <option name="SELECTION_BACKGROUND" value="176081" />
+    <option name="SELECTION_FOREGROUND" value="cfd2d5" />
     <option name="TEARLINE_COLOR" value="3d3e40" />
     <option name="VISUAL_INDENT_GUIDE" value="2c2c2d" />
-    <option name="INFORMATION_HINT" value="252526" />
+    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="252526" />
   </colors>
   <attributes>
     <option name="BAD_CHARACTER">
       <value>
         <option name="EFFECT_COLOR" value="ff5b56" />
         <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="CONSOLE_BLACK_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="0" />
       </value>
     </option>
     <option name="CONSOLE_BLUE_BRIGHT_OUTPUT">
@@ -68,6 +81,11 @@
         <option name="FOREGROUND" value="ff69c0" />
       </value>
     </option>
+    <option name="CONSOLE_NORMAL_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ececec" />
+      </value>
+    </option>
     <option name="CONSOLE_RED_BRIGHT_OUTPUT">
       <value>
         <option name="FOREGROUND" value="ff5b56" />
@@ -78,6 +96,16 @@
         <option name="FOREGROUND" value="ff5b56" />
       </value>
     </option>
+    <option name="CONSOLE_SYSTEM_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ececec" />
+      </value>
+    </option>
+    <option name="CONSOLE_WHITE_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="f1f1f0" />
+      </value>
+    </option>
     <option name="CONSOLE_YELLOW_BRIGHT_OUTPUT">
       <value>
         <option name="FOREGROUND" value="f3f99c" />
@@ -86,6 +114,11 @@
     <option name="CONSOLE_YELLOW_OUTPUT">
       <value>
         <option name="FOREGROUND" value="f3f99c" />
+      </value>
+    </option>
+    <option name="CSS.URL">
+      <value>
+        <option name="FOREGROUND" value="9bc1bc" />
       </value>
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
@@ -159,9 +192,29 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="INJECTED_LANGUAGE_FRAGMENT">
+      <value>
+        <option name="EFFECT_COLOR" value="252526" />
+      </value>
+    </option>
     <option name="JS.LOCAL_VARIABLE">
       <value>
         <option name="FOREGROUND" value="cfd2d5" />
+      </value>
+    </option>
+    <option name="PY.BUILTIN_NAME">
+      <value>
+        <option name="FOREGROUND" value="cfd2d5" />
+      </value>
+    </option>
+    <option name="PY.PREDEFINED_DEFINITION">
+      <value>
+        <option name="FOREGROUND" value="9bc1bc" />
+      </value>
+    </option>
+    <option name="PY.PREDEFINED_USAGE">
+      <value>
+        <option name="FOREGROUND" value="9bc1bc" />
       </value>
     </option>
     <option name="TEXT">
@@ -171,11 +224,32 @@
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
+    <option name="TS.TYPE_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="5ca4a9" />
+      </value>
+    </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="40342a" />
         <option name="ERROR_STRIPE_COLOR" value="b56277" />
         <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="org.rust.LIFETIME">
+      <value>
+        <option name="FOREGROUND" value="9bc1bc" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="org.rust.MACRO">
+      <value>
+        <option name="FOREGROUND" value="5ca4a9" />
+      </value>
+    </option>
+    <option name="org.rust.TYPE_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="5ca4a9" />
       </value>
     </option>
   </attributes>
