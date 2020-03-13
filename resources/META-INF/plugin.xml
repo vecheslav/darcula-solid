@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>com.vecheslav.darculaSolidTheme</id>
   <name>Darcula Solid Theme</name>
-  <version>1.0.1</version>
+  <version>1.0.2</version>
   <vendor email="vecheslavdruzhbin@gmail.com">Vecheslav Druzhbin</vendor>
 
   <description><![CDATA[
@@ -22,6 +22,18 @@
       <br/>
       <img src="https://raw.githubusercontent.com/vecheslav/darcula-solid/master/screenshots/darculasolid-settings.png" border="0" width="700" alt="Settings screenshot">
     ]]></description>
+
+  <change-notes><![CDATA[
+  <b>1.0.2</b>
+  <ul>
+    <li>Updated brown/yellow file color</li>
+  </ul><br/>
+  <b>1.0.1</b>
+  <ul>
+    <li>Updated since build</li>
+  </ul>
+    ]]>
+  </change-notes>
 
   <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
   <idea-version since-build="191.0"/>

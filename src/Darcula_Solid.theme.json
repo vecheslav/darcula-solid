@@ -98,6 +98,9 @@
         "unmatchedForeground": "#9192a3"
       },
       "FileHistory.Commit.selectedBranchBackground": "#252c40"
+    },
+    "FileColor": {
+      "Yellow": "#302E2D"
     }
   },
   "icons": {
