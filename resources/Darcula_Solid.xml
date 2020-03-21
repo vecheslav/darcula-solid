@@ -217,6 +217,11 @@
         <option name="FOREGROUND" value="9bc1bc" />
       </value>
     </option>
+    <option name="PY.SELF_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="9899bf" />
+      </value>
+    </option>
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="cfd2d5" />
