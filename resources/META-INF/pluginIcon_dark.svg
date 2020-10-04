@@ -1,7 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80">
-  <g fill="none" fill-rule="evenodd">
-    <polygon fill="#252526" fill-rule="nonzero" points="7 21 7 59 40 73 73 59 73 21 40 7"/>
-    <polygon fill="#252526" fill-rule="nonzero" points="40 7 7 21 7 59 40 73"/>
-    <polygon fill="#2856AC" fill-rule="nonzero" points="40 7 40 73 73 59 73 21"/>
-  </g>
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M40 40H100C133.137 40 160 66.8629 160 100V160H40V40Z" fill="url(#paint0_linear)"/>
+  <defs>
+    <linearGradient id="paint0_linear" x1="40" y1="160" x2="160" y2="40" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFF275"/>
+      <stop offset="1" stop-color="#EA5459"/>
+    </linearGradient>
+  </defs>
 </svg>

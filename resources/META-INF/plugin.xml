@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>com.vecheslav.darculaSolidTheme</id>
   <name>Darcula Solid Theme</name>
-  <version>1.0.2</version>
+  <version>1.0.3</version>
   <vendor email="vecheslavdruzhbin@gmail.com">Vecheslav Druzhbin</vendor>
 
   <description><![CDATA[
@@ -24,6 +24,10 @@
     ]]></description>
 
   <change-notes><![CDATA[
+  <b>1.0.3</b>
+  <ul>
+    <li>Colors improvement and unification</li>
+  </ul><br/>
   <b>1.0.2</b>
   <ul>
     <li>Updated brown/yellow file color</li>
