@@ -143,7 +143,12 @@
     },
 
     "FileColor": {
-      "Yellow": "#302E2D"
+      "Yellow": "#302E2D",
+      "Green": "#383C38",
+      "Blue": "#343A3E",
+      "Violet": "#3C3A3D",
+      "Orange": "#3D3A36",
+      "Rose": "#3D383B"
     }
   },
   "icons": {
